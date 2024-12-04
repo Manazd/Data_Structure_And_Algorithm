@@ -1,0 +1,1 @@
+Handles string comparison and updates using hash values and Fenwick trees, efficiently processing commands on substrings of strings.

@@ -1,0 +1,1 @@
+Implements a graph with weighted edges and uses Dijkstra's algorithm to find the shortest path between two nodes, considering special conditions for roads.

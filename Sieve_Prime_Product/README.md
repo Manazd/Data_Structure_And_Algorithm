@@ -1,0 +1,1 @@
+Uses the Sieve of Eratosthenes to find prime numbers and calculates the product of the first 'n' primes modulo 1000000007.

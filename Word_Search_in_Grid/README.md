@@ -1,0 +1,1 @@
+Solves word search problems by finding a given word in a grid, where the word can be formed by traveling in any of the four directions (up, down, left, right) from any starting point in the grid.

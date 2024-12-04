@@ -1,0 +1,1 @@
+Uses binary search to find the smallest number with a specific number of prime factors based on cube divisibility.

@@ -1,0 +1,1 @@
+Uses merge sort to sort shops and calculates an optimal distribution of goods to minimize the total distance.
